@@ -1,0 +1,34 @@
+import sys
+
+def rush(x, y):
+    """
+    Display a square pattern based on x (width) and y (height)
+
+    Args:
+        x (int): Width of the square
+        y (int): Height of the square
+    """
+    if x <= 0 or y <= 0:
+        print("Invalid size", file=sys.stderr)
+        return
+
+    indent = "   "
+    if x == 1:
+        if y >= 1:
+            print(f"{indent}o")
+        if y > 1:
+            for n in range(y-2):
+                print(f"{indent}|")
+            print(f"{indent}o")
+    else:
+        if y >= 1:
+            line=['-']*(x-2)
+            print("{}o{}o".format(indent, ''.join(line)))
+        if y > 1:
+            for n in range(y-2):
+                line=[' ']*(x-2)
+                print("{}|{}|".format(indent, ''.join(line)))
+            line=['-']*(x-2)
+            print("{}o{}o".format(indent, ''.join(line)))
+    print("\n")
+    pass

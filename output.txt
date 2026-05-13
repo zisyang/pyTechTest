@@ -1,0 +1,457 @@
+ty@ty-Mac-Retina: pyTechTest$ python3 main.py 1
+Delivery: rush-1-1/*
+
+When calling rush(5,3)
+   o---o
+   |   |
+   o---o
+
+
+When calling rush(5,1)
+   o---o
+
+
+When calling rush(1,1)
+   o
+
+
+When calling rush(1,5)
+   o
+   |
+   |
+   |
+   o
+
+
+When calling rush(4,4)
+   o--o
+   |  |
+   |  |
+   o--o
+
+
+when calling with random numbers: rush(40,18)
+   o--------------------------------------o
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   |                                      |
+   o--------------------------------------o
+
+
+ty@ty-Mac-Retina: pyTechTest$ python3 main.py 2
+Delivery: rush-1-2/*
+
+When calling rush(5,3)
+   /***\
+   *   *
+   \***/
+
+
+When calling rush(5,1)
+   *****
+
+
+When calling rush(1,1)
+   *
+
+
+When calling rush(1,5)
+   *
+   *
+   *
+   *
+   *
+
+
+When calling rush(4,4)
+   /**\
+   *  *
+   *  *
+   \**/
+
+
+when calling with random numbers: rush(8,100)
+   /******\
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   *      *
+   \******/
+
+
+ty@ty-Mac-Retina: pyTechTest$ python3 main.py 3
+Delivery: rush-1-3/*
+
+When calling rush(5,3)
+   ABBBA
+   B   B
+   CBBBC
+
+
+When calling rush(5,1)
+   BBBBB
+
+
+When calling rush(1,1)
+   B
+
+
+When calling rush(1,5)
+   B
+   B
+   B
+   B
+   B
+
+
+When calling rush(4,4)
+   ABBA
+   B  B
+   B  B
+   CBBC
+
+
+when calling with random numbers: rush(65,23)
+   ABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   B                                                               B
+   CBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBC
+
+
+ty@ty-Mac-Retina: pyTechTest$ python3 main.py 4
+Delivery: rush-1-4/*
+
+When calling rush(5,3)
+   ABBBC
+   B   B
+   ABBBC
+
+
+When calling rush(5,1)
+   BBBBB
+
+
+When calling rush(1,1)
+   B
+
+
+When calling rush(1,5)
+   B
+   B
+   B
+   B
+   B
+
+
+When calling rush(4,4)
+   ABBC
+   B  B
+   B  B
+   ABBC
+
+
+when calling with random numbers: rush(16,45)
+   ABBBBBBBBBBBBBBC
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   B              B
+   ABBBBBBBBBBBBBBC
+
+
+ty@ty-Mac-Retina: pyTechTest$ python3 main.py 5
+Delivery: rush-1-5/*
+
+When calling rush(5,3)
+   ABBBC
+   B   B
+   CBBBA
+
+
+When calling rush(5,1)
+   BBBBB
+
+
+When calling rush(1,1)
+   B
+
+
+When calling rush(1,5)
+   B
+   B
+   B
+   B
+   B
+
+
+When calling rush(4,4)
+   ABBC
+   B  B
+   B  B
+   CBBA
+
+
+when calling with random numbers: rush(44,95)
+   ABBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBC
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   B                                          B
+   CBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBA
+
+
+ty@ty-Mac-Retina: pyTechTest$ 
